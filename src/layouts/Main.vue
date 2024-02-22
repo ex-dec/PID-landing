@@ -5,8 +5,8 @@ import FeatureSection from "../sections/FeatureSection.vue";
 import DownloadSection from "../sections/DownloadSection.vue";
 import TestimoniSection from "../sections/TestimoniSection.vue";
 import FaqSection from "../sections/FaqSection.vue";
+import IndustrySection from "../sections/IndustrySection.vue";
 import ContactUsSection from "../sections/ContactUsSection.vue";
-import SubscribeSection from "../sections/SubscribeSection.vue";
 </script>
 
 <template>
@@ -18,10 +18,7 @@ import SubscribeSection from "../sections/SubscribeSection.vue";
 
   <!-- <DownloadSection /> -->
 
-  <TestimoniSection />
-
-  <FaqSection />
+  <IndustrySection />
 
   <ContactUsSection />
-  <!-- <SubscribeSection /> -->
 </template>
