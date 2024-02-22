@@ -9,7 +9,11 @@ import LinkedInIcon from "@mui/icons-material/LinkedIn";
       <div class="grid md:grid-cols-2">
         <div class="flex flex-col md:flex-row md:space-x-12 items-center">
           <div class="mb-10 md:mb-0">
-            <img src="/images/" alt="PT. Prima Infra Data" />
+            <img
+              src="/images/logo-pid-white.svg"
+              alt="PT. Prima Infra Data"
+              style="max-height: 40px"
+            />
           </div>
           <ul
             class="flex flex-col md:flex-row space-y-5 md:space-y-0 md:space-x-8 text-xs text-center md:text-left font-theme-heading"

@@ -75,7 +75,11 @@ let toggleMobileNav = () => {
         class="absolute px-5 py-12 block z-30 top-0 left-0 w-full h-full bg-gradient-to-b from-theme-dark-blue via-theme-dark-blue-tp to-theme-dark-blue"
       >
         <div class="flex justify-between items-center">
-          <img src="/images/logo-pid.svg" alt="PT. Prima Infra Data" />
+          <img
+            src="/images/logo-pid-white.svg"
+            alt="PT. Prima Infra Data"
+            style="max-height: 40px"
+          />
           <button
             @click="toggleMobileNav()"
             type="button"
