@@ -22,7 +22,6 @@ let toggleMobileNav = () => {
       </div>
 
       <nav class="flex justify-end flex-col md:flex-row">
-        <!-- Menu Toggler -->
         <button
           @click="toggleMobileNav()"
           type="button"
@@ -48,22 +47,17 @@ let toggleMobileNav = () => {
           <li
             class="uppercase hover:text-theme-secondary transition duration-200"
           >
-            <a href="#testimonials" v-smooth-scroll>Testimonial</a>
+            <a href="#industry" v-smooth-scroll>Fokus Industri</a>
           </li>
           <li
             class="uppercase hover:text-theme-secondary transition duration-200"
           >
-            <a href="#faq" v-smooth-scroll>FAQ</a>
+            <a href="#partner" v-smooth-scroll>Partner Kami</a>
           </li>
-          <!-- <li
-            class="uppercase hover:text-theme-secondary transition duration-200"
-          >
-            <a href="#subscribe" v-smooth-scroll>Subscribe</a>
-          </li> -->
           <li
             class="uppercase bg-theme-secondary px-6 py-2 text-white rounded shadow-md hover:bg-white border-2 border-transparent hover:border-theme-secondary hover:text-theme-secondary cursor-pointer transition duration-200"
           >
-            <a href="#contact" v-smooth-scroll>Contact Us</a>
+            <a href="#contact" v-smooth-scroll>Kontak Kami</a>
           </li>
         </ul>
       </nav>
@@ -105,22 +99,22 @@ let toggleMobileNav = () => {
           <li
             class="hover:text-theme-secondary transition duration-200 py-4 border-t border-b border-theme-grayish-blue w-full text-center"
           >
-            <a @click="toggleMobileNav()" href="#features">Features</a>
+            <a @click="toggleMobileNav()" href="#about">Tentang Kami</a>
           </li>
           <li
             class="hover:text-theme-secondary transition duration-200 py-4 border-b border-theme-grayish-blue w-full text-center"
           >
-            <a @click="toggleMobileNav()" href="#faq">FAQ</a>
+            <a @click="toggleMobileNav()" href="#industry">Fokus Industri</a>
           </li>
           <li
             class="hover:text-theme-secondary transition duration-200 py-4 border-b border-theme-grayish-blue w-full text-center"
           >
-            <a @click="toggleMobileNav()" href="#subscribe">Subscribe</a>
+            <a @click="toggleMobileNav()" href="#partner">Partner Kami</a>
           </li>
           <li
             class="bg-transparent border-2 rounded px-6 py-2 mt-6 w-full text-center cursor-pointer hover:text-theme-secondary transition duration-200"
           >
-            <a @click="toggleMobileNav()" href="#download-section">Download</a>
+            <a @click="toggleMobileNav()" href="#contact">Kontak Kami</a>
           </li>
         </ul>
         <div class="flex justify-center items-end h-52">

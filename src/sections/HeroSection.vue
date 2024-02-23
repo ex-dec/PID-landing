@@ -3,7 +3,10 @@
 <template>
   <!-- Hero Section Start -->
   <div class="container mx-auto px-5 overflow-x-hidden lg:overflow-x-visible">
-    <section class="grid grid-cols-none lg:grid-cols-2 pb-16 pt-8 items-center">
+    <section
+      class="grid grid-cols-none lg:grid-cols-2 pb-16 pt-8 items-center"
+      style="background-image: '/images/bg.jpg'"
+    >
       <div class="lg:w-5/6 order-2 lg:order-none">
         <h1
           class="text-4xl xl:text-5xl font-bold font-theme-heading text-center lg:text-left"
@@ -19,6 +22,7 @@
           class="flex justify-center lg:justify-start mt-10 transition duration-200"
         >
           <LinkButton btn-type="primary" link="#about">Tentang Kami</LinkButton>
+          <LinkButton btn-type="muted" link="#contact">Kontak Kami</LinkButton>
         </div>
       </div>
       <div

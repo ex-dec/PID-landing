@@ -1,6 +1,6 @@
 <script setup></script>
 <template>
-  <div class="container my-24 mx-auto md:px-6">
+  <div class="container my-24 mx-auto md:px-6" id="industry">
     <section class="py-16">
       <div class="w-4/5 md:w-3/5 mx-auto py-16">
         <h2

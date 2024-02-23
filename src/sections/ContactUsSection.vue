@@ -1,7 +1,7 @@
 <script setup></script>
 <template>
   <!-- Container for demo purpose -->
-  <div class="container my-24 mx-auto md:px-6">
+  <div class="container my-24 mx-auto md:px-6" id="contact">
     <!-- Section: Design Block -->
     <section class="mb-32">
       <div class="w-4/5 md:w-3/5 mx-auto pb-16">
