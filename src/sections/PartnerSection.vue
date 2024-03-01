@@ -13,49 +13,49 @@
         <div>
           <img
             class="h-auto max-w-full rounded-lg"
-            src="images/partner-1.png"
+            src="/images/partner-1.png"
             alt="DELL Technologies"
           />
         </div>
         <div>
           <img
             class="h-auto max-w-full rounded-lg"
-            src="images/partner-2.png"
+            src="/images/partner-2.png"
             alt="VMware"
           />
         </div>
         <div>
           <img
             class="h-auto max-w-full rounded-lg"
-            src="images/partner-3.png"
+            src="/images/partner-3.png"
             alt="NetApp"
           />
         </div>
         <div>
           <img
             class="h-auto max-w-full rounded-lg"
-            src="images/partner-4.png"
+            src="/images/partner-4.png"
             alt="Cisco"
           />
         </div>
         <div>
           <img
             class="h-auto max-w-full rounded-lg"
-            src="images/partner-5.png"
+            src="/images/partner-5.png"
             alt="Fortinet"
           />
         </div>
         <div>
           <img
             class="h-auto max-w-full rounded-lg"
-            src="images/partner-6.png"
+            src="/images/partner-6.png"
             alt="Cisco Meraki"
           />
         </div>
         <div>
           <img
             class="h-auto max-w-full rounded-lg"
-            src="images/partner-7.png"
+            src="/images/partner-7.png"
             alt="APC"
           />
         </div>
