@@ -15,7 +15,8 @@
         class="block rounded-lg bg-theme-primary shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)] dark:bg-theme-grayish-blue"
       >
         <div class="flex flex-wrap items-center">
-          <div
+          <div class="h-[50px] w-full"></div>
+          <!-- <div
             class="block w-full shrink-0 grow-0 basis-auto lg:flex lg:w-6/12 xl:w-4/12"
           >
             <div class="h-[500px] w-full">
@@ -26,7 +27,7 @@
                 allowfullscreen
               ></iframe>
             </div>
-          </div>
+          </div> -->
           <div class="w-full shrink-0 grow-0 basis-auto lg:w-6/12 xl:w-8/12">
             <div class="flex flex-wrap px-3 pt-12 pb-12 md:pb-0 lg:pt-0">
               <div

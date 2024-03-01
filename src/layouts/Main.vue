@@ -6,6 +6,7 @@ import DownloadSection from "../sections/DownloadSection.vue";
 import TestimoniSection from "../sections/TestimoniSection.vue";
 import FaqSection from "../sections/FaqSection.vue";
 import IndustrySection from "../sections/IndustrySection.vue";
+import PartnerSection from "../sections/PartnerSection.vue";
 import ContactUsSection from "../sections/ContactUsSection.vue";
 </script>
 
@@ -19,6 +20,8 @@ import ContactUsSection from "../sections/ContactUsSection.vue";
   <!-- <DownloadSection /> -->
 
   <IndustrySection />
+
+  <PartnerSection />
 
   <ContactUsSection />
 </template>
