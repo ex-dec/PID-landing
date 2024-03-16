@@ -12,7 +12,7 @@
         </h2>
       </div>
       <div
-        class="block rounded-lg bg-theme-primary shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)] dark:bg-theme-grayish-blue"
+        class="block rounded-lg bg-theme-gray shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)] dark:bg-theme-grayish-blue"
       >
         <div class="flex flex-wrap items-center">
           <div class="h-[50px] w-full"></div>

@@ -54,7 +54,7 @@
         </div>
         <div>
           <img
-            class="h-4 max-w-full rounded-lg"
+            class="h-auto max-w-full rounded-lg"
             src="/images/partner-7.png"
             alt="APC"
           />
