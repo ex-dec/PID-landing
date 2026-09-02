@@ -1,9 +1,9 @@
 <script setup></script>
 <template>
   <!-- Container for demo purpose -->
-  <div class="container my-24 mx-auto md:px-6" id="contact">
+  <div class="container mx-auto px-5 md:px-6" id="contact">
     <!-- Section: Design Block -->
-    <section class="mb-32">
+    <section class="py-16">
       <div class="w-4/5 md:w-3/5 mx-auto pb-16">
         <h2
           class="text-3xl md:text-4xl font-semibold font-theme-heading text-center"

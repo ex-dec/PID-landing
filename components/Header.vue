@@ -42,22 +42,22 @@ let toggleMobileNav = () => {
           <li
             class="uppercase hover:text-theme-secondary transition duration-200"
           >
-            <a href="#about" v-smooth-scroll>Tentang Kami</a>
+            <a href="#about">Tentang Kami</a>
           </li>
           <li
             class="uppercase hover:text-theme-secondary transition duration-200"
           >
-            <a href="#industry" v-smooth-scroll>Fokus Industri</a>
+            <a href="#industry">Fokus Industri</a>
           </li>
           <li
             class="uppercase hover:text-theme-secondary transition duration-200"
           >
-            <a href="#partner" v-smooth-scroll>Partner Kami</a>
+            <a href="#partner">Partner Kami</a>
           </li>
           <li
             class="uppercase bg-theme-secondary px-6 py-2 text-white rounded shadow-md hover:bg-white border-2 border-transparent hover:border-theme-secondary hover:text-theme-secondary cursor-pointer transition duration-200"
           >
-            <a href="#contact" v-smooth-scroll>Kontak Kami</a>
+            <a href="#contact">Kontak Kami</a>
           </li>
         </ul>
       </nav>
