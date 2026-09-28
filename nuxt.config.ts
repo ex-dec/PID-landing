@@ -16,8 +16,4 @@ export default defineNuxtConfig({
       htmlAttrs: { lang: "id" },
     },
   },
-
-  nitro: {
-    preset: "static",
-  },
 });
