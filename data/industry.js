@@ -24,3 +24,5 @@ const industry = [
     imageUrl: "images/industry4.png",
   },
 ];
+
+export default industry;

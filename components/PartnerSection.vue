@@ -1,8 +1,8 @@
 <script setup></script>
 <template>
-  <div class="container my-24 mx-auto md:px-6" id="partner">
+  <div class="container mx-auto px-5 md:px-6" id="partner">
     <section class="py-16">
-      <div class="w-4/5 md:w-3/5 mx-auto py-16">
+      <div class="w-4/5 md:w-3/5 mx-auto pb-16">
         <h2
           class="text-3xl md:text-4xl font-semibold font-theme-heading text-center"
         >
